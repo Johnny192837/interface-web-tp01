@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "start": "servor --reload"
-  },
-  "devDependencies": {
-    "servor": "^4.0.2"
-  }
-}
